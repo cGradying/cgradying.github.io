@@ -1,4 +1,4 @@
-import{$ as e,B as t,C as n,G as r,H as i,I as a,Q as o,T as s,X as c,_ as l,j as u,m as d,ot as f,rt as p}from"../chunks/ljtfuMzK.js";import"../chunks/xihTtKlq.js";import{t as m}from"../chunks/DOdM1Bve.js";import{n as h}from"../chunks/BNh4JrtW.js";var g=`# Privacy
+import{$ as e,B as t,C as n,G as r,H as i,I as a,Q as o,T as s,X as c,_ as l,j as u,m as d,ot as f,rt as p}from"../chunks/ljtfuMzK.js";import"../chunks/xihTtKlq.js";import{t as m}from"../chunks/BSy94XxZ.js";import{n as h}from"../chunks/BNh4JrtW.js";var g=`# Privacy
 
 IntPortal is an unofficial student app. It works with your school's own portals, which today are the SIS and eMabini of the Polytechnic University of the Philippines (PUP). It is not made by or affiliated with any school. This page says what the app does with your data. Last updated 2026-11-16.
 
