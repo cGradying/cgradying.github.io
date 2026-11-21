@@ -1,0 +1,1 @@
+var e=e=>`v${e}`;export{e as t};

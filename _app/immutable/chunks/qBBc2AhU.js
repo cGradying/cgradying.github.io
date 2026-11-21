@@ -1,0 +1,1 @@
+var e=new URL(`../assets/intportal-16x9.B6J5iNqO.mp4`,import.meta.url).href;export{e as default};

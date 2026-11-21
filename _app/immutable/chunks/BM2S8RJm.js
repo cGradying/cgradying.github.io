@@ -1,0 +1,1 @@
+var e=new URL(`../assets/intportal-9x16.DiemyD16.mp4`,import.meta.url).href;export{e as default};

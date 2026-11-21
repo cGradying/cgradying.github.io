@@ -1,0 +1,1 @@
+function e(e,t=0){return/Android/i.test(e)?`android`:/iPhone|iPad|iPod/i.test(e)?`ios`:/Macintosh/i.test(e)?t>1?`ios`:`mac`:/Windows/i.test(e)?`windows`:/Linux|X11|CrOS/i.test(e)?`linux`:`other`}export{e as t};

@@ -1,0 +1,1 @@
+var e=new URL(`../assets/poster-9x16.B-_uxI7b.webp`,import.meta.url).href;export{e as default};
